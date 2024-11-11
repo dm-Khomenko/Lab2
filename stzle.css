@@ -8,6 +8,8 @@ header{
     width: 100%;
     height: 20vh;
     background-color: #fff;
+    margin:0;
+    padding: 0;
 }
 nav{
     width: 30%;
@@ -19,6 +21,8 @@ div{
     width: 100%;
     height: 60vh;
     background-color: aqua;
+    margin:0;
+    padding: 0;
 }
 aside{
     width: 10%;
@@ -26,10 +30,13 @@ aside{
     background-color: blue;
     text-align: center;
     float: left;
+    margin:0;
+    padding: 0;
 }
 main{
     width: 70px;
     height: 60vh;
     background-color: #b825ac;
-
+    margin:0;
+    padding: 0;
 }
